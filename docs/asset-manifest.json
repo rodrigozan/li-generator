@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/li-generator/static/css/main.0b3e518c.chunk.css",
+    "main.js": "/li-generator/static/js/main.a3e56293.chunk.js",
+    "main.js.map": "/li-generator/static/js/main.a3e56293.chunk.js.map",
+    "runtime-main.js": "/li-generator/static/js/runtime-main.73b4751e.js",
+    "runtime-main.js.map": "/li-generator/static/js/runtime-main.73b4751e.js.map",
+    "static/js/2.86daf7cc.chunk.js": "/li-generator/static/js/2.86daf7cc.chunk.js",
+    "static/js/2.86daf7cc.chunk.js.map": "/li-generator/static/js/2.86daf7cc.chunk.js.map",
+    "static/js/3.45423ce1.chunk.js": "/li-generator/static/js/3.45423ce1.chunk.js",
+    "static/js/3.45423ce1.chunk.js.map": "/li-generator/static/js/3.45423ce1.chunk.js.map",
+    "index.html": "/li-generator/index.html",
+    "static/css/main.0b3e518c.chunk.css.map": "/li-generator/static/css/main.0b3e518c.chunk.css.map",
+    "static/js/2.86daf7cc.chunk.js.LICENSE.txt": "/li-generator/static/js/2.86daf7cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73b4751e.js",
+    "static/js/2.86daf7cc.chunk.js",
+    "static/css/main.0b3e518c.chunk.css",
+    "static/js/main.a3e56293.chunk.js"
+  ]
+}
